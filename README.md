@@ -19,8 +19,11 @@
 
 * An access to the Internet
 
+## Technology Used
+* HTML - which was used to build the structure of the pages.
 
-
+* CSS - which was used to style the pages.
+* Java Script - Used to add functionality to the website.
 
 ## Licence
 
