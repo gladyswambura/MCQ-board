@@ -10,40 +10,49 @@ body{
     display: inline-flex;
     padding:0 20px 20px 0;
 }
+.header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 .heading1{
     position: relative;
     color: white;
-    margin-left: 50%;
-    display: block;
-   
+    margin-top: 5%;
+    margin-left: 10%;  
+    font-size: 150%; 
 }
-
 .Welcomepage{
     text-align: center;
     color: pink;
     background: linear-gradient(30deg, white 45%, transparent 45%), url(../images/image2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 100vh;
+    height: 61vh;
 }
 .Welcomepage>p{
     position: relative;
-    top: 60%;
+    top: 40%;
     float: left;
-    color: black;
+    color: rgb(248, 134, 153);
     font-size: 36px;
 }
 #button{
     position: relative;
     margin-left: 300px;
-   margin-right: 38%;
+    margin-right: 38%;
     background-color: purple;
-    color: black;
-    float: left;
-width: 10%;
-height: 9%;
-   top: 70%;
-   padding: 2%;
-    
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    width: 10%;
+    height: 9%;
+   top: 50%;
+   padding: 10px;
+   border: none;
+   border-radius: 20px;  
+}
+.questions> form{
+    align-items: center;
 }
 
