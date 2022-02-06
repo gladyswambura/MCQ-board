@@ -19,6 +19,13 @@ body {
     flex-wrap: wrap;
 }
 
+.heading1 {
+    position: relative;
+    color: white;
+    margin-top: 5%;
+    margin-left: 10%;
+    font-size: 150%;
+}
 
 .Welcomepage {
     text-align: center;
