@@ -66,24 +66,27 @@ form {
     font-size: 25px;
 }
 
-#userform {
+#userForm {
+    display: inline-bl;
     justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
 }
 
 #button1 {
     background-color: rgb(247, 142, 160);
     padding: 2%;
-    margin-left: 20%;
-    margin-top: 5%;
+    margin-left: 45%;
+    margin-top: 2%;
     border-radius: 20px;
     color: rgb(3, 3, 3);
     font-size: 30px;
     font-weight: 500px;
 }
 
-.user-score {
-    font-size: x-large;
+.score {
+    font-size: 50px;
     color: white;
-    margin-top: 4%;
-    margin-left: 32%;
+    margin-top: 10%;
+    margin-left: 35%;
 }

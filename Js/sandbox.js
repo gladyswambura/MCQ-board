@@ -43,9 +43,10 @@ function questions(userData) {
     } else {
         alert("wrong! Try again!");
     }
-    alert(score);
+    userForm.style.display = "none";
+    // alert(score);
     let userScore = document.querySelector(".score");
-    userScore.textContent = score;
+    userScore.textContent = 'Your Score is:' + ' ' + score;
     // userScore.getElementsByClassName.color="red";
     // userForm.style.display="none";
 }
