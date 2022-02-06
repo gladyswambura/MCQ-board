@@ -5,7 +5,6 @@ userForm.addEventListener("submit", function (event) {
     let userData = new FormData(userForm);
     questions(userData);
 })
-
 function questions(userData) {
     let male = userData.get("male");
     if (male == "Tim Berners-Lee") {
