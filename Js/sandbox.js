@@ -5,6 +5,22 @@ event.preventDefault()
 let userData=newFormData(userForm))
 }
 let male=userData.get(male)
-alert(male)
-let male=userData.get(male)
-alert(male)
+if(male ===correctAnswer("Tim Berners-Lee"){
+alert(correct!)}
+else{
+    alert(wrong! Try again!)
+}
+
+let language=userData.get(language)
+
+alert(language)
+
+let what=userData.get(what)
+alert(what)
+
+let father=userData.get(father)
+alert(lfather)
+
+let model=userData.get(model)
+alert(model)
+ 
