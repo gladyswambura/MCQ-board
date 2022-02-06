@@ -27,7 +27,7 @@
 ## Figma design link
 https://www.figma.com/file/qrwPY5kk5pKSAEevSs7caG/Untitled?node-id=0%3A1
 
-## Licence
+## Licence 
 
 MIT License
 
