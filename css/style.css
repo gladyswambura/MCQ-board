@@ -18,6 +18,7 @@ body {
     flex-direction: row;
     flex-wrap: wrap;
 }
+
 .heading1 {
     position: relative;
     color: white;
@@ -25,6 +26,7 @@ body {
     margin-left: 10%;
     font-size: 150%;
 }
+
 .Welcomepage {
     text-align: center;
     color: pink;
@@ -76,11 +78,12 @@ form {
     padding: 2%;
     margin-left: 45%;
     margin-top: 2%;
-    border-radius: 20px;
+    border-radius: 30px;
     color: rgb(3, 3, 3);
     font-size: 30px;
     font-weight: 500px;
 }
+
 .score {
     font-size: 50px;
     color: white;
