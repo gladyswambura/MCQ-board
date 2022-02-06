@@ -24,6 +24,8 @@
 
 * CSS - which was used to style the pages.
 * Java Script - Used to add functionality to the website.
+## Figma design link
+https://www.figma.com/file/qrwPY5kk5pKSAEevSs7caG/Untitled?node-id=0%3A1
 
 ## Licence
 
