@@ -30,7 +30,7 @@ body {
 .Welcomepage {
     text-align: center;
     color: pink;
-    background: linear-gradient(30deg, white 45%, transparent 45%), url(../images/image2.jpg);
+    background: linear-gradient(30deg, white 45%, transparent 45%), url(../images/img.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 61vh;
